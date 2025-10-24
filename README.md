@@ -10,7 +10,7 @@ O objetivo é documentar meu progresso e praticar conceitos fundamentais de lóg
 
 Você pode acompanhar meu progresso e perfil completo diretamente no Beecrowd:
 
-➡️ Meu Perfil no Beecrowd: **((https://judge.beecrowd.com/pt/profile/1108953))**
+➡️ Meu Perfil no Beecrowd: **(https://judge.beecrowd.com/pt/profile/1108953)**
 
 ## 📂 Estrutura do Repositório
 As soluções estão organizadas em pastas, seguindo as categorias oficiais do Beecrowd para facilitar a navegação:
